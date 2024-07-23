@@ -1,0 +1,6 @@
+# Ignore all pycache directories
+__pycache__/
+
+# Ignore all configuration and log files
+config.json
+email_log.txt
